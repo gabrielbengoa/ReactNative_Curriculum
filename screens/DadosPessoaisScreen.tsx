@@ -4,8 +4,6 @@ import { View, Text } from "react-native";
 export default function DadosPessoaisScreen() {
   return (
     <View>
-      <Text>DADOS PESSOAIS</Text>
-      &nbsp;&nbsp;&nbsp;
       <Text>Rua Mazagão, 230 – Cidade Patriarca</Text>
       <Text>03555-000 | São Paulo - SP</Text>
       <Text>(11) 2798-0123 | (11) 96446-5786</Text>
